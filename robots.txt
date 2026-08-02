@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-m1zhpb.meilen-und-mehr.icu/sitemap.xml
